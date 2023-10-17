@@ -1,0 +1,5 @@
+PySimpleGUI==4.30.3
+pyzbar==0.1.8
+opencv-python==4.5.1.48
+sounddevice==0.4.1
+openpyxl==3.0.7
