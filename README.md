@@ -13,12 +13,15 @@ To run the code provided, you will need the following requirements:
    pip install sounddevice
    pip install openpyxl
    ```
+2.  **requirements.txt file **
+   pip install -r requirements.txt
+   This will install all the necessary packages for your code in their Python environment.
 
 3. **Camera**: Make sure your computer has a working camera.
 
 4. **Excel File**: You need an Excel file (e.g., attendance list) with a list of names. The path to this file should be provided as input when you run the script.
 
-5. **Operating System**: The code is intended to run on Windows, macOS, or Linux.
+6. **Operating System**: The code is intended to run on Windows, macOS, or Linux.
 
 Once you have Python and the required libraries installed, and you have an Excel file with the list of names, you should be able to run the code successfully.
 
